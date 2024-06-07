@@ -19,3 +19,10 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/marcelosdias/node-http-server.git
 cd node-http-server
+```
+## Start server
+Run the index.js file to start the server on port 3000:
+```bash
+node src/index.js
+```
+The API will be available at http://localhost:3000
